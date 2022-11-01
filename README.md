@@ -1,3 +1,7 @@
+![images (15)](https://user-images.githubusercontent.com/109187416/199290934-1a20eea8-8109-4d45-958a-708b70492ba9.jpeg)
+
+
+
 <h3 align="left">CARA INSTALL SCRIPT:</h3>
 
 ***download aplikasi termux di playstore atau*** ***<a href="https://f-droid.org/en/packages/com.termux/">klik disini</a>*** ***lalu buka aplikasinya ketikan perintah dibawah ini.***
