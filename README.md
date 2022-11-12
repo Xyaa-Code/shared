@@ -1,32 +1,38 @@
+<h5 align="left">CARA INSTALL SCRIPT:</h5>
 
-<h3 align="left">CARA INSTALL SCRIPT:</h3>
-
-***download aplikasi termux di playstore atau*** ***<a href="https://f-droid.org/en/packages/com.termux/">klik disini</a>*** ***lalu buka aplikasinya ketikan perintah dibawah ini.***
-
-
-```pkg update && pkg upgrade```
-
-```pkg install python git```
-
-```pkg install play-audio```
-
-```git clone https://github.com/Xyaa-Code/shared```
-
-***```✓ sekarang script sudah berhasil di install```***
-
-<h3 align="left">CARA MENJALANKAN SCRIPT:</h3>
-
-<sub>***sekarang karena script sudah diinstall tinggal kita jalankan, ketikan perintah dibawah ini***</sub>
-
-```cd $HOME/shared```      
-
-```git pull```
-
-```python run.py```
+download aplikasi termux di playstore atau <a href="https://f-droid.org/en/packages/com.termux/">klik disini</a> lalu buka aplikasinya ketikan perintah dibawah ini.
 
 
-```👥 my contact:```
+    $ pkg update && pkg upgrade
+    $ pkg install python git
+    $ pkg install play-audio
+    $ rm -rf shared
+    $ git clone https://github.com/Xyaa-Code/shared
 
-[![forthebadge cc-nc](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+6281227172283)
-[![forthebadge cc-nc](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Aditya.putraXD991)
-[![forthebadge cc-nc](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/Xyaa_Codename)
+- Oke sekarang script sudah berhasil di ```install```
+
+<h5 align="left">CARA MENJALANKAN SCRIPT:</h5>
+
+sekarang karena script sudah ```diinstall``` tinggal kita jalankan, ketikan perintah dibawah ini
+
+
+    $ cd $HOME/shared
+    $ git pull
+    $ python run.py
+
+
+<h5 align="left">LOGIN COOKIE:</h5>
+
+- Notice me: ```jika anda belum mempunyai cookie``` <a href="https://wa.me/+16143244921">Klik disini</a>
+
+<h5 align="left">MENU SHARED:</h5>
+
+<h5 align="left">informasi:</h5>
+
+script ini juga cuma bisa dijalankan di python versi ```3.11``` untuk mengecek versi python ketik perintah ini : ```python --version```
+
+<h5 align="left">catatan:</h5>
+
+gunakanlah dengan ```bijak,``` atas apapun yang terjadi admin tidak ```bertanggung jawab.```
+
+<h5 align="left">Thanks for <a href="https://github.com/Xyaa-Code">Xyaa-Code</a> and <a href="https://github.com/AdtyaXC">Aditya XC</a></h5>
