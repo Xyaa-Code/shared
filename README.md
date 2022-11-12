@@ -20,13 +20,15 @@ sekarang karena script sudah ```diinstall``` tinggal kita jalankan, ketikan peri
     $ git pull
     $ python run.py
 
-
 <h5 align="left">LOGIN COOKIE:</h5>
 
-[![Screenshot-2022-11-12-07-47-12-77-84d3000e3f4017145260f7618db1d683.jpg](https://i.postimg.cc/1R6b6Hh4/Screenshot-2022-11-12-07-47-12-77-84d3000e3f4017145260f7618db1d683.jpg)](https://postimg.cc/K4G9htYy)
+[![IMG-20221112-075054.jpg](https://i.postimg.cc/x8StmZ0v/IMG-20221112-075054.jpg)](https://postimg.cc/xJtvDtN8)
+
 - Notice me: ```jika anda belum mempunyai cookie``` <a href="https://wa.me/+16143244921">Klik disini</a>
 
 <h5 align="left">MENU SHARED:</h5>
+
+[![IMG-20221112-075054.jpg](https://i.postimg.cc/x8StmZ0v/IMG-20221112-075054.jpg)](https://postimg.cc/xJtvDtN8)
 
 <h5 align="left">informasi:</h5>
 
