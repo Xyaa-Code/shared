@@ -22,14 +22,13 @@ sekarang karena script sudah ```diinstall``` tinggal kita jalankan, ketikan peri
 
 <h5 align="left">LOGIN COOKIE:</h5>
 
-[![IMG-20221112-075054.jpg](https://i.postimg.cc/x8StmZ0v/IMG-20221112-075054.jpg)](https://postimg.cc/xJtvDtN8)
+![IMG_20221112_075042](https://user-images.githubusercontent.com/109187416/201448649-a9accc6e-5804-43a1-b9b2-c949fb5ba9fd.jpg)
 
 - Notice me: ```jika anda belum mempunyai cookie``` <a href="https://wa.me/+16143244921">Klik disini</a>
 
 <h5 align="left">MENU SHARED:</h5>
 
 [![IMG-20221112-075054.jpg](https://i.postimg.cc/x8StmZ0v/IMG-20221112-075054.jpg)](https://postimg.cc/xJtvDtN8)
-
 <h5 align="left">informasi:</h5>
 
 script ini juga cuma bisa dijalankan di python versi ```3.11``` untuk mengecek versi python ketik perintah ini : ```python --version```
