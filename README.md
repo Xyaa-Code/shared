@@ -24,7 +24,7 @@ sekarang karena script sudah ```diinstall``` tinggal kita jalankan, ketikan peri
 
 ![IMG_20221112_075042](https://user-images.githubusercontent.com/109187416/201448649-a9accc6e-5804-43a1-b9b2-c949fb5ba9fd.jpg)
 
-- Notice me: ```jika anda belum mempunyai cookie``` <a href="https://wa.me/+16143244921">Klik disini</a>
+- Notice me: ```jika anda belum mempunyai cookie``` <a href="https://www.facebook.com/100063618310179/posts/549345897196016/?app=fbl">Klik disini</a>
 
 <h5 align="left">MENU SHARED:</h5>
 
